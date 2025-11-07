@@ -1,10 +1,31 @@
 Chapter 03 CODES
 Spawning:
+
+
+
 <img width="828" height="201" alt="spawning py" src="https://github.com/user-attachments/assets/74d521dc-38a1-463d-a5a0-1a2361b7baba" />
+
+
+
 Killing:
+
+
+
 <img width="1136" height="282" alt="ss output" src="https://github.com/user-attachments/assets/22dbe6c4-43c5-4990-a00c-e6a0eba057c3" />
+
+
+
 Naming:
+
+
+
 <img width="788" height="377" alt="naming py" src="https://github.com/user-attachments/assets/5913548f-f7cb-4230-86f4-ae6f72729778" />
+
+
+
+
+
+
 Conclusion:
 In Chapter 03 we learn the process of Spawning, Killing and Naming, Discuss briefly below:
 Spawning:
